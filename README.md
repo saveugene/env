@@ -1,5 +1,6 @@
 # My enviroment
 
+
 ## Packages:
 * [pyenv](https://github.com/pyenv/pyenv)
 * [nvm](https://github.com/nvm-sh/nvm)
@@ -20,7 +21,7 @@
 
 ## Programs:
 * [keeweb](https://github.com/keeweb/keeweb)
-* [museeks](https://github.com/martpie/museeks)
+* [museeks](https://github.com/martpie/museeks) / [audacious](https://github.com/audacious-media-player/audacious)
 * [flameshot](https://github.com/flameshot-org/flameshot)
 * [pycharm](https://www.jetbrains.com/pycharm/)
 * [telegram-desktop](https://github.com/telegramdesktop/tdesktop)
@@ -34,7 +35,6 @@
 ## MacOS programs:
 * [mos](https://github.com/Caldis/Mos)
 * [linearmouse](https://github.com/linearmouse/linearmouse)
-
 
 
 ## Fixes:
