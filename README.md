@@ -1,27 +1,19 @@
 # My enviroment
 
 
-## Packages:
+## Generic:
 * [pyenv](https://github.com/pyenv/pyenv)
 * [nvm](https://github.com/nvm-sh/nvm)
-* [git](https://github.com/git/git)
+* [git](https://github.com/git/git) | [download](https://git-scm.com/downloads)
 * [ffmpeg](https://github.com/FFmpeg/FFmpeg)
-* docker
-  * [Install](https://docs.docker.com/engine/install/ubuntu/)
-  * [Post install](https://docs.docker.com/engine/install/ubuntu/)
-* docker-compose
-  * [Install](https://docs.docker.com/compose/install/)
-* helm 
-  * [Install](https://helm.sh/docs/intro/install/)
-* kubectl 
-  * [Install](https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/)
-* [python](https://github.com/python/cpython)
-* [node](https://github.com/nodejs/node)
-
-
-## Programs:
+* [docker](https://www.docker.com/products/docker-desktop/)
+* [helm](https://github.com/helm/helm)
+* [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/)
+* [go](https://github.com/golang/go)
+* [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+* [zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use)
 * [keeweb](https://github.com/keeweb/keeweb)
-* [museeks](https://github.com/martpie/museeks) / [audacious](https://github.com/audacious-media-player/audacious)
+* [audacious](https://github.com/audacious-media-player/audacious) | [museeks](https://github.com/martpie/museeks) 
 * [flameshot](https://github.com/flameshot-org/flameshot)
 * [pycharm](https://www.jetbrains.com/pycharm/)
 * [telegram-desktop](https://github.com/telegramdesktop/tdesktop)
@@ -30,15 +22,28 @@
 * [google-chrome](https://www.google.com/chrome/)
 * [vlc](https://github.com/videolan/vlc)
 * [qbittorrent](https://github.com/qbittorrent/qBittorrent)
+* [discord](https://discord.com/download)
+* [mpv](https://github.com/mpv-player/mpv)
+* [wireshark](https://github.com/wireshark/wireshark)
+* [nomachine](https://downloads.nomachine.com/)
+* [aws-cli](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+* [gcloud-cli](https://cloud.google.com/sdk/docs/install)
+* [pgadmin4](https://www.pgadmin.org/download/)
+* [zoom](https://zoom.us/download)
+* [anydesk](https://anydesk.com/en/downloads)
+* [poetry](https://github.com/python-poetry/poetry)
+* [pipenv](https://github.com/pypa/pipenv)
+* [krew](https://github.com/kubernetes-sigs/krew)
+* [brew](https://github.com/Homebrew/brew)
 
 
-## MacOS programs:
+## MacOS:
 * [mos](https://github.com/Caldis/Mos)
 * [linearmouse](https://github.com/linearmouse/linearmouse)
+* [iterm2](https://github.com/gnachman/iTerm2)
+* [rectangle](https://github.com/rxhanson/Rectangle)
+* [telegram](https://macos.telegram.org/)
 
 
-## Fixes:
-- Keychron K2 fn keys fix (ubuntu)
-```console
-echo "options hid_apple fnmode=0" | sudo tee -a /etc/modprobe.d/hid_apple.conf
-```
+## Ubuntu:
+ * [yaru-colors](https://github.com/Jannomag/Yaru-Colors)
