@@ -1,5 +1,14 @@
 # My enviroment
 
+## MacOS:
+* [mos](https://github.com/Caldis/Mos)
+* [linearmouse](https://github.com/linearmouse/linearmouse)
+* [iterm2](https://github.com/gnachman/iTerm2)
+* [rectangle](https://github.com/rxhanson/Rectangle)
+* [telegram](https://macos.telegram.org/)
+
+## Ubuntu:
+ * [yaru-colors](https://github.com/Jannomag/Yaru-Colors)
 
 ## Generic:
 * [pyenv](https://github.com/pyenv/pyenv)
@@ -13,7 +22,7 @@
 * [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 * [zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use)
 * [keeweb](https://github.com/keeweb/keeweb)
-* [audacious](https://github.com/audacious-media-player/audacious) || [museeks](https://github.com/martpie/museeks) 
+* [audacious](https://github.com/audacious-media-player/audacious)
 * [flameshot](https://github.com/flameshot-org/flameshot)
 * [pycharm](https://www.jetbrains.com/pycharm/)
 * [telegram-desktop](https://github.com/telegramdesktop/tdesktop)
@@ -36,14 +45,5 @@
 * [krew](https://github.com/kubernetes-sigs/krew)
 * [brew](https://github.com/Homebrew/brew)
 * [jetbrains-mono](https://github.com/JetBrains/JetBrainsMono)
-* [kitty](https://github.com/kovidgoyal/kitty) || [alacritty](https://github.com/alacritty/alacritty)
-
-## MacOS:
-* [mos](https://github.com/Caldis/Mos)
-* [linearmouse](https://github.com/linearmouse/linearmouse)
-* [iterm2](https://github.com/gnachman/iTerm2)
-* [rectangle](https://github.com/rxhanson/Rectangle)
-* [telegram](https://macos.telegram.org/)
-
-## Ubuntu:
- * [yaru-colors](https://github.com/Jannomag/Yaru-Colors)
+* [alacritty](https://github.com/alacritty/alacritty)
+* [nomachine](https://downloads.nomachine.com)
