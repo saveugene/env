@@ -51,3 +51,4 @@
 * [alacritty](https://github.com/alacritty/alacritty)
 * [uv](https://github.com/astral-sh/uv)
 * [amnezia-vpn](https://github.com/amnezia-vpn/amnezia-client)
+* [thefuck](https://github.com/nvbn/thefuck)
