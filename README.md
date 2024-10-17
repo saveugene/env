@@ -6,6 +6,9 @@
 * [iterm2](https://github.com/gnachman/iTerm2)
 * [rectangle](https://github.com/rxhanson/Rectangle)
 * [telegram](https://macos.telegram.org/)
+* [stats](https://github.com/exelban/stats)
+  ### Proprietary
+  * [cleanshot](https://cleanshot.com/)
 
 ## Ubuntu:
  * [yaru-colors](https://github.com/Jannomag/Yaru-Colors)
@@ -47,3 +50,4 @@
 * [jetbrains-mono](https://github.com/JetBrains/JetBrainsMono)
 * [alacritty](https://github.com/alacritty/alacritty)
 * [uv](https://github.com/astral-sh/uv)
+* [amnezia-vpn](https://github.com/amnezia-vpn/amnezia-client)
